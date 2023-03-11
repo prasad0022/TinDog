@@ -1,0 +1,140 @@
+
+body {
+    font-family:"Montserrat" ;
+}
+
+#title {
+    background-color: #ff4c68;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+h1 {
+    font-family: "Montserrat"; 
+    font-size: 3.5rem;  
+    line-height: 1.5;  
+    font-weight: 900;
+    color: white;
+}
+
+.google-play {
+    width: 25px;
+    height: 25px;
+}
+
+.navbar {
+    padding:0 0 4rem;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+.nav-link {
+    font-family: "Montserrat";
+    font-size: 1.2rem;
+    font-weight: lighter;
+}
+
+.download {
+    margin: 5% 3% 5% 0;
+}
+
+.title-img {
+    margin-left: 10px;
+    width: 20%;
+    transform: rotate(25deg);
+    position:absolute;
+}
+
+.box {
+    padding: 25px;
+}
+
+.icon {
+    padding: 10px;
+    text-align: center;
+    font-size: 80px;
+   color: #ff4c68;
+}
+.icon:hover{
+    color: #f13652;
+}
+h3 {
+    font-weight: 500;
+}
+#features {
+    position: relative;
+    background-color: white;
+}
+.features{
+    padding: 10%;
+    text-align: center;
+}
+
+#testimonials {
+    background-color: #ff4c68;
+    text-align: center;
+    color: white;
+}
+.carousel-inner{
+    padding: 4% 15%;
+}
+h2 {
+    font-family: "Montserrat"; 
+    font-size: 2.8rem;  
+    line-height: 1.5;
+}
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    padding: 1% 1%;
+}
+
+#press {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 4% 5%;
+}
+.press-logo {
+    width: 15%;
+    margin: 0 3%;
+}
+
+#pricing {
+    padding: 5% 15%;
+    text-align: center;
+}
+.pricing-column {
+    padding: 3% 2%;
+}
+
+#cta {
+    padding: 8% 15%;
+    background-color: #ff4c68;
+    text-align: center;
+}
+.cta-h3 {
+    font-family: "Montserrat"; 
+    font-size: 2.8rem;  
+    line-height: 1.5;
+    color: white;
+    font-weight: 500;
+}
+
+#footer {
+    padding: 8% 15%;
+    text-align: center;
+}
+.footer-icon {
+    font-size: 1.7rem;
+    margin: 1%;
+    margin-bottom: 2%;
+}
